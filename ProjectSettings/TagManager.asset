@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Oops
+  - Headphones
+  - Rose
+  - Letter C
+  - Letter O
+  - Letter M
+  - Letter E
+  - Red
+  - Green
+  - Blue
+  - Globe
+  - Letter F
+  - Letter A
+  - Letter R
+  - Letter W
+  - Letter Y
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Screen Space
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: InsceneVideo
+    uniqueID: 707755091
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Screen border
+    uniqueID: 711614313
+    locked: 0

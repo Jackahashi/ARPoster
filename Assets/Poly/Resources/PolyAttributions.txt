@@ -1,0 +1,37 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Additional primitives pk1
+Author: Carwyn Pelley
+URL: https://poly.google.com/view/7SqPeWWqrVs
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Globe
+Author: shoaib lodhi
+URL: https://poly.google.com/view/5O6lJNSqy-X
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Headphones
+Author: Poly by Google
+URL: https://poly.google.com/view/frvTEfwm9Yg
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: O
+Author: Jerad Bitner
+URL: https://poly.google.com/view/0n6yUIe_MwP
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Rose
+Author: Poly by Google
+URL: https://poly.google.com/view/ckI9DnS00xZ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: U
+Author: Jerad Bitner
+URL: https://poly.google.com/view/55iicPutHoZ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
