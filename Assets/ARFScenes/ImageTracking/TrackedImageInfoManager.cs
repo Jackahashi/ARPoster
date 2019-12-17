@@ -62,13 +62,13 @@ public class TrackedImageInfoManager : MonoBehaviour
     void OnEnable()
     {
         m_TrackedImageManager.trackedImagesChanged += OnTrackedImagesChanged;
-        LookScript.StartPositions();
+        //LookScript.StartPositions();
     }
 
     void OnDisable()
     {
         m_TrackedImageManager.trackedImagesChanged -= OnTrackedImagesChanged;
-        LookScript.StartPositions();
+        //LookScript.StartPositions();
     }
 
     void UpdateInfo(ARTrackedImage trackedImage)
@@ -104,8 +104,7 @@ public class TrackedImageInfoManager : MonoBehaviour
             // Set the texture of the plane to the reference image's texture
             // var material = planeGo.GetComponentInChildren<MeshRenderer>().material;
             // material.mainTexture = (trackedImage.referenceImage.texture == null) ? defaultTexture : trackedImage.referenceImage.texture;
-            //animate.SetBool("TweenForward", true);
-            
+          
             anim.SetTrigger("ComeForward");
         }
         else

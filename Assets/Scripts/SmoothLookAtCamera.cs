@@ -35,22 +35,14 @@ public class SmoothLookAtCamera : MonoBehaviour
 
     private void LateUpdate()
     {
-                   //Vector3 direction = (TargetTransform.position - transform.position).normalized;
-                   //Quaternion lookRotation = Quaternion.LookRotation(direction);
-                   //transform.rotation = Quaternion.RotateTowards(transform.rotation, lookRotation, Time.deltaTime * speed);
-
         foreach (Transform T in ObjectsToRotate)
         {
             Vector3 direction = (TargetTransform.position - T.transform.position).normalized;
-
             // Lookrotation has an overload argument for verctor3.up , I need to tell LookRotation which direction "up" is and somehow get this info from the AR image
             Quaternion lookRotation = Quaternion.LookRotation(direction);
             T.transform.rotation = Quaternion.RotateTowards(T.transform.rotation, lookRotation, Time.deltaTime * speed);
         }
     }
-
-
-
 }
 
 
